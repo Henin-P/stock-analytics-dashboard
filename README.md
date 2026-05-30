@@ -21,7 +21,7 @@ An interactive stock market dashboard built using Python, Streamlit, and Yahoo F
 ## Project Structure
 
 ```text
-quant-stock-dashboard/
+stock-market-dashboard/
 │
 ├── app.py
 ├── requirements.txt
@@ -45,7 +45,7 @@ quant-stock-dashboard/
 * NVDA
 * TSLA
 
-### Cryptocurrencies
+### Crypto currencies
 
 * BTC-USD
 * ETH-USD
