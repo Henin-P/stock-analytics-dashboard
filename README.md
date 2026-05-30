@@ -54,3 +54,9 @@ stock-market-dashboard/
 
 * ^NSEI
 * ^NSEBANK
+  
+# Dashboard Preview
+
+| Indian Assets | Global Assets |
+|--------------|--------------|
+| ![](images/OUTPUT1.jpg) | ![](images/OUTPUT2.jpg) |
