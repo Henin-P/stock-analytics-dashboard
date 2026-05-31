@@ -38,6 +38,11 @@ stock-market-dashboard/
 * INFY.NS
 * ITC.NS
 
+ ### Indices
+
+* ^NSEI
+* ^NSEBANK
+
 ### US Stocks
 
 * AAPL
@@ -50,11 +55,6 @@ stock-market-dashboard/
 * BTC-USD
 * ETH-USD
 
-### Indices
-
-* ^NSEI
-* ^NSEBANK
-  
 # Dashboard Preview
 ![DASHBOARD OUT1](OUTPUT1.jpg)
 ![DASHBOARD OUT2](OUTPUT2.jpg)
